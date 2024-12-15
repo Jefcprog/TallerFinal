@@ -1,0 +1,17 @@
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\bin\Debug\net8.0\TallerFinal.DAL.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\bin\Debug\net8.0\TallerFinal.DAL.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\bin\Debug\net8.0\TallerFinal.DAL.dll
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\bin\Debug\net8.0\TallerFinal.DAL.pdb
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\bin\Debug\net8.0\TallerFinal.DTO.dll
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\bin\Debug\net8.0\TallerFinal.DTO.pdb
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\TallerFinal.DAL.dll
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\refint\TallerFinal.DAL.dll
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\TallerFinal.DAL.pdb
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DAL\obj\Debug\net8.0\ref\TallerFinal.DAL.dll
